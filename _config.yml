@@ -27,7 +27,7 @@ url: "https://ashish-econ.github.io" # the base hostname & protocol for your sit
 github_username: "ashish-econ"
 #orcid: "0000-0002-6978-7644"
 twitter_username: "ashish_econ"
-linkedin_id: "ashishkumar40222@gmail.com"
+linkedin_id: "ashish-kumar-2b1827130"
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
@@ -47,8 +47,8 @@ highlighter_theme: pastie  # Theme of the syntax_highlighter [base16 |
 toolbar_priority:        # Order of the items in the toolbar (except for blog and home)
   - Bio
   - Research
-  - Teaching
-  - PublicGoods
+ # - Teaching
+ # - PublicGoods
 
 # Collections
 collections:
