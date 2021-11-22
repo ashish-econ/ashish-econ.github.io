@@ -28,7 +28,7 @@ description: Research
 #### Policy Notes
 
 * Health, Wealth and Dignity: Towards a New Social Contract for India's Internal Migrant Workers (with Chirantan Chatterjee and Aditya Bansal)
-<button type="button" class="btn btn-xs btn-default"><a href="/research/Policy_Document.pdf">preliminary draft</a></button>
+<button type="button" class="btn btn-xs btn-default"><a href="/research/Policy_Document.pdf">Policy note</a></button>
 
 
 #### Master's thesis 
