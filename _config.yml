@@ -14,20 +14,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: website
-author: "Christine Cai"
-email: "christine.cai@princeton.edu"
+author: "Ashish Kumar"
+email: "ashish,econ@gmail.com"
 description: personal website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://christinecai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ashish-econ.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # ------------------------------------------------------------------------------
 # Custom settings
 # ------------------------------------------------------------------------------
 # Useful links
-github_username: "christinecai"
-orcid: "0000-0002-6978-7644"
-twitter_username: "Christine_Cai27"
-linkedin_id: "christinecai"
+github_username: "ashish-econ"
+#orcid: "0000-0002-6978-7644"
+twitter_username: "ashish_econ"
+linkedin_id: "ashishkumar40222@gmail.com"
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
@@ -40,7 +40,7 @@ theme_switch: on         # Show color switch (on | off)
 blog: off                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
 avatar_image: "assets/img/avatar.jpg"
-avatar_description: "Christine Cai"
+avatar_description: "Ashish Kumar"
 highlighter_theme: pastie  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
