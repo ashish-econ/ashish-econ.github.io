@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Christine Cai
+title: Ashish Kumar
 description: Homepage
 ---
 
-#### Ph.D. Candidate in Economics at Princeton University
+#### Research Assistant at Indian Health Outcomes Public Health & Economics Research Centre
 
 <hr />
 
@@ -14,13 +14,13 @@ description: Homepage
 
 
 <u>Research fields:</u>
-* <u>Primary:</u> applied microeconomics, labor, public
-* <u>Secondary:</u> urban, health, education
+* <u>Primary:</u> Macroeconomics, Network Theory
+* <u>Secondary:</u> Industrial Organization, Health Economics
 			
-<u>Main topics of interest:</u> segregation, migrations, social mobility, educational/racial inequalities
+<u>Main topics of interest:</u> Macroeconomic dynamics: Business cycles, Production Networks ,Empirical Industrial Organization, 
 	
-<u>CV:</u> <a href="/assets/pdf/Christine_Cai_CV.pdf">click here</a>
+<u>CV:</u> <a href="/assets/pdf/Ashish_CV.pdf">click here</a>
 
-<u>Contact:</u> <a href="mailto:christine.cai@princeton.edu">christine.cai@princeton.edu</a>
+<u>Contact:</u> <a href="mailto:ashish.econ@gmail.com">ashish.econ@gmail.com</a>
 
-<u>Twitter:</u> <a href="https://twitter.com/Christine_Cai27">@Christine_Cai27</a>
+<u>Twitter:</u> <a href="https://twitter.com/ashish_econ">@Christine_Cai27</a>
