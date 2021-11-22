@@ -23,4 +23,4 @@ description: Homepage
 
 <u>Contact:</u> <a href="mailto:ashish.econ@gmail.com">ashish.econ@gmail.com</a>
 
-<u>Twitter:</u> <a href="https://twitter.com/ashish_econ">@Christine_Cai27</a>
+<u>Twitter:</u> <a href="https://twitter.com/ashish_econ">@ashish_econ</a>
