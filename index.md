@@ -17,7 +17,7 @@ description: Homepage
 * <u>Primary:</u> Macroeconomics, Network Theory
 * <u>Secondary:</u> Industrial Organization, Health Economics
 			
-<u>Main topics of interest:</u> Macroeconomic dynamics: Business cycles, Production Networks ,Empirical Industrial Organization, 
+<u>Main topics of interest:</u> Macroeconomic dynamics: Business cycles, Production Networks , Pharmaceutical markets, Health, Technological Change & Innovation
 	
 <u>CV:</u> <a href="/assets/pdf/Ashish_CV.pdf">click here</a>
 
