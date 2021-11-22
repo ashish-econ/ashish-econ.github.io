@@ -4,6 +4,11 @@ title: Research
 description: Research
 ---
 
+#### Publications
+
+* Distress propagation on production networks: Coarse-graining and modularity of linkages (with Anindya S Chakrabarti, Anirban Chakraborti and Tushar Nandi) <button type="button" class="btn btn-xs btn-default"><a href="https://econpapers.repec.org/article/eeephsmap/v_3a568_3ay_3a2021_3ai_3ac_3as0378437120310128.htm">Link to the paper</a></button> 
+
+
 #### Work in progress
 
 * White Flight from Asian Immigration: Evidence from California Public Schools (with Leah P. Boustan & Tammy Tseng) <button type="button" class="btn btn-xs btn-default"><a href="/research/BCT_white_flight_draft.pdf">preliminary draft</a></button> 
