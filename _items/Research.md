@@ -14,7 +14,7 @@ description: Research
 * How Does Misinformation Spill-Over Spatially? New Evidence from COVID-19 Drug Treatment Endorsements (with Chirantan Chatterjee & Aditya Bansal) <button type="button" class="btn btn-xs btn-default"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3764586">SSRN Link</a></button> 
 
 * En masse product ban: Arms race between institutions and markets (with Anindya S Chakrabarti & Chirantan Chatterjee)
-<button type="button" class="btn btn-xs btn-default"><a href="/research/Proj_BD_D1.pdf">preliminary draft</a></button>
+<button type="button" class="btn btn-xs btn-default"><a href="/research/Proj_BD_D1.pdf">Preliminary Draft</a></button>
 
 * Granular origins of aggregate nominal fluctuations in a networked economy (with Anindya S Chakraborti)
 <button type="button" class="btn btn-xs btn-default">work under progress</button>
@@ -34,4 +34,4 @@ description: Research
 #### Master's thesis 
 
 * Production Linkages & Volatility in an Economy:A Network based Exploration
-<button type="button" class="btn btn-xs btn-default"><a href="/research/Ashish_AU_thesis.pdf">paper</a></button> 
+<button type="button" class="btn btn-xs btn-default"><a href="/research/Ashish_AU_thesis.pdf">Link</a></button> 
