@@ -11,13 +11,20 @@ description: Research
 
 #### Work in progress
 
+## Macroeconomic Dynamics 
+
+* Granular origins of aggregate nominal fluctuations in a networked economy (with Anindya S Chakraborti)
+<button type="button" class="btn btn-xs btn-default">work under progress</button>
+
+* Financial Market Volatility and Macroeconomic Fundamentals 
+<button type="button" class="btn btn-xs btn-default"><a href="/research/Writing_Sample_ts.pdf">time-series term paper</button>
+  
+## Empirical Industrial Organization
+
 * How Does Misinformation Spill-Over Spatially? New Evidence from COVID-19 Drug Treatment Endorsements (with Chirantan Chatterjee & Aditya Bansal) <button type="button" class="btn btn-xs btn-default"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3764586">SSRN Link</a></button> 
 
 * En masse product ban: Arms race between institutions and markets (with Anindya S Chakrabarti & Chirantan Chatterjee)
 <button type="button" class="btn btn-xs btn-default"><a href="/research/Proj_BD_D1.pdf">Preliminary Draft</a></button>
-
-* Granular origins of aggregate nominal fluctuations in a networked economy (with Anindya S Chakraborti)
-<button type="button" class="btn btn-xs btn-default">work under progress</button>
 
 * The California Effect in Global Biopharmaceutical Industry: Evidence from Large Molecule Biological Drugs (with Anindya S Chakraborti, Chirantan Chatterjee, Dr. Raja Naraynan)
 <button type="button" class="btn btn-xs btn-default">work under progress</button>
