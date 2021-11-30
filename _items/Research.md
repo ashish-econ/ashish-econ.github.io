@@ -11,7 +11,7 @@ description: Research
 
 #### Work in progress
 
-## Macroeconomic Dynamics 
+###### Macroeconomic Dynamics 
 
 * Granular origins of aggregate nominal fluctuations in a networked economy (with Anindya S Chakraborti)
 <button type="button" class="btn btn-xs btn-default">work under progress</button>
@@ -19,7 +19,7 @@ description: Research
 * Financial Market Volatility and Macroeconomic Fundamentals 
 <button type="button" class="btn btn-xs btn-default"><a href="/research/Writing_Sample_ts.pdf">time-series term paper</button>
   
-## Empirical Industrial Organization
+###### Empirical Industrial Organization
 
 * How Does Misinformation Spill-Over Spatially? New Evidence from COVID-19 Drug Treatment Endorsements (with Chirantan Chatterjee & Aditya Bansal) <button type="button" class="btn btn-xs btn-default"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3764586">SSRN Link</a></button> 
 
