@@ -4,12 +4,12 @@ title: Research
 description: Research
 ---
 
-#### Publications
+### Publications
 
 * Distress propagation on production networks: Coarse-graining and modularity of linkages (with Anindya S Chakrabarti, Anirban Chakraborti and Tushar Nandi) <button type="button" class="btn btn-xs btn-default"><a href="https://econpapers.repec.org/article/eeephsmap/v_3a568_3ay_3a2021_3ai_3ac_3as0378437120310128.htm">URL</a></button> 
 
 
-#### Work in progress
+### Work in progress
 
 ###### Macroeconomic Dynamics 
 
@@ -17,7 +17,7 @@ description: Research
 <button type="button" class="btn btn-xs btn-default">work under progress</button>
 
 * Financial Market Volatility and Macroeconomic Fundamentals 
-<button type="button" class="btn btn-xs btn-default"><a href="/research/Writing_Sample_ts.pdf">time-series term paper</button>
+<button type="button" class="btn btn-xs btn-default"><a href="/research/Writing_Sample_ts.pdf">Link</a></button>
   
 ###### Empirical Industrial Organization
 
@@ -32,13 +32,13 @@ description: Research
 * Climate Change and Respiratory Drugs (with Chirantan Chatterjee, Pallavi Wats)
 <button type="button" class="btn btn-xs btn-default">work under progress</button>
 
-#### Policy Notes
+### Policy Notes
 
 * Health, Wealth and Dignity: Towards a New Social Contract for India's Internal Migrant Workers (with Chirantan Chatterjee and Aditya Bansal)
 <button type="button" class="btn btn-xs btn-default"><a href="/research/Policy_Document.pdf">Policy note</a></button>
 
 
-#### Master's thesis 
+### Master's thesis 
 
 * Production Linkages & Volatility in an Economy:A Network based Exploration
 <button type="button" class="btn btn-xs btn-default"><a href="/research/Ashish_AU_thesis.pdf">Link</a></button> 
