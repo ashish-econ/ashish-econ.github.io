@@ -26,8 +26,8 @@ description: Research
 * En masse product ban: Arms race between institutions and markets (with Anindya S Chakrabarti & Chirantan Chatterjee)
 <button type="button" class="btn btn-xs btn-default"><a href="/research/Proj_BD_D1.pdf">Preliminary Draft</a></button>
 
-* The California Effect in Global Biopharmaceutical Industry: Evidence from Large Molecule Biological Drugs (with Anindya S Chakraborti, Chirantan Chatterjee, Dr. Raja Naraynan)
-<button type="button" class="btn btn-xs btn-default">work under progress</button>
+* Cross-Border Spillovers from Pharmaceutical Policy in the United States: Evidence from Large Molecule Drugs in India (with Anindya S Chakraborti, Chirantan Chatterjee, Dr. Raja Naraynan)
+<button type="button" class="btn btn-xs btn-default"><a href="/research/Project_BPCIA.pdf">Preliminary Draft</a></button>
 
 * Climate Change and Respiratory Drugs (with Chirantan Chatterjee, Pallavi Wats)
 <button type="button" class="btn btn-xs btn-default">work under progress</button>
